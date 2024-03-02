@@ -7,7 +7,7 @@ Datapack that add a recipe to craft [bundles](https://minecraft.wiki/w/Bundle).
 To install the datapack, go to your `world/datapacks` folder and paste the following :
 
 ```sh
-git clone https://github.com/NatoBoram/bundle.git
+git clone https://github.com/NatoBoram/bundles.git
 ```
 
 ## Recipe
