@@ -12,8 +12,4 @@ git clone https://github.com/NatoBoram/bundles.git
 
 ## Recipe
 
-|               |   `bundle`    |               |
-| :-----------: | :-----------: | :-----------: |
-|   `string`    | `rabbit_hide` |   `string`    |
-| `rabbit_hide` |               | `rabbit_hide` |
-| `rabbit_hide` |               | `rabbit_hide` |
+[![Crafting a bundle](https://github.com/NatoBoram/bundles/assets/10495562/6e6fb66f-3b2b-4704-a87b-06b9dfd0501e)](https://minecraft.wiki/w/Bundle#Crafting)
